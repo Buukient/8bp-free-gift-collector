@@ -26,3 +26,4 @@
 | Date | Rewards |
 | :---: | :---: |
 | 8/1/2025 | <img src="https://prod-hub-config.8ballpool.com/assets/uew70LP1xb3fHZ8xtHSMRjEDW6rQ-cY3eRnnLRVJ5PBkhlO70MdgREScjjHMEG3N3FfsdgoJReO2lQIBmWkjLA~ENU5GRG4OIdHfBvOoxa5uTu2UabVzPAuR6xkk5SJypA.png" height="25" alt="Strike Zone Cue Piece"/> Strike Zone Cue Piece x2 |
+| 8/3/2025 | <img src="https://prod-hub-config.8ballpool.com/assets/Psx-E7uPYsPupGj0nxmL-ggEUzHn-7lsgkMAwlcVF4gwPZSN_a8mgloScb-GG-vdGTPe2BGN48s55voNCggOwg~AFzNC1iBF6kM5VF7z3TAuOb6gNgagPGTHZUH3ViCTlg.png" height="25" alt="Opti Shot Cue Piece"/> Opti Shot Cue Piece x1 |
